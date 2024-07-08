@@ -1,0 +1,3 @@
+/Users/vladisla_vkasymov/Desktop/c++/bit_op/contest/a/cmake-build-debug/CMakeFiles/a.dir
+/Users/vladisla_vkasymov/Desktop/c++/bit_op/contest/a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladisla_vkasymov/Desktop/c++/bit_op/contest/a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
